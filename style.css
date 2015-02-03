@@ -21,14 +21,14 @@ body p{
         color: #717171;
         margin: 5px;
         display: inline-block;
-		font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;
        
         
     }
     
       nav a:hover{
         color: #000;
-		transition: 1s all;
+	transition: 1s all;
       }
     
     header {
@@ -37,7 +37,7 @@ body p{
       
     header img{
         border-radius: 0%;
-		width: 120px;
+	width: 120px;
     }  
     
     header h1{
@@ -58,14 +58,14 @@ body p{
     }
 	
 	section p {
-		color: #FDFDFD
+	color: #FDFDFD
 		
-		}
+	}
 		
 	section p a {
-		color: #F00
+	color: #F00
 	
-		}
+	}
     
     button{
         color: #FFF;
@@ -74,5 +74,5 @@ body p{
         border-radius: 3px;
         padding: 10px;
         margin-top: 40px;
-		margin-bottom: 40px;
+        margin-bottom: 40px;
     }
