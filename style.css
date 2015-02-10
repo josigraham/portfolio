@@ -1,5 +1,5 @@
 
-
+/* CSS STYLE PAGE */
 
 body{
 	margin: 0;
@@ -279,3 +279,57 @@ footer a {
 footer a:hover {
 	transition: .3s all;
 	color: #000;
+}
+
+/*----------------- ABOUT PAGE ----------------*/
+
+#profiletop {
+	    font-family: 'Lato', sans-serif;
+	    text-align: center;
+	    width: 80%;
+		margin: 0 auto;
+		background-color: #000;
+		font-size: 28px;
+		padding-bottom: 30px;
+		color: #000;
+		border-radius: 5px;
+		margin-bottom: 10px;
+		-webkit-transition: all 1s; /* For Safari 3.1 to 6.0 */
+		transition : all 1s;
+}
+
+#profilepic {
+		margin-top: 230px;
+	    padding-top: 40px;
+	    padding-bottom: 0px;
+		padding-bottom: 20px;
+	
+	}
+
+#profilepic img { 
+         border-radius: 200px;
+		 -webkit-transition: all 1s; /* For Safari 3.1 to 6.0 */
+		 transition : all 1s;
+
+}
+
+#profilepic img:hover {
+	     border-radius: 50px;
+		 transition: 1s all;
+	
+	}
+
+#profiletop:hover {
+        background-color: #D7D7D7;
+		transition: 1s all;
+		border-radius: 100px;
+      }
+	  
+#resume {
+	   text-align:center;
+	   padding-top: 10px;
+	
+	}
+	
+/*------------contact-------------*/
+
