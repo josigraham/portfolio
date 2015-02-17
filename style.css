@@ -3,7 +3,20 @@
 
 /*------------ HOME PAGE STYLE----------- */
 
-nav a.mark {
+nav a.mark2 {
+	display:block;
+    -webkit-filter: blur(20px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    opacity: 0.95;
+	
+	
+}
+
+
+nav a.mark1 {
 	background-color: #000;
 	color: #fff;
 	border-radius: 100px;
