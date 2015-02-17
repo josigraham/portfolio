@@ -5,15 +5,14 @@
 
 
 nav a.mark {
-	background-color: #5E5E5C;
-	color: #fff;
-	border-radius: 100px;
+	text-shadow: 2px 2px #FFB001;
 
 
 }
 
 nav a.mark:hover {
-	color: #fff;
+	color: #000;
+	text-shadow: 2px 2px #FFB001;
 }
 
 body{
