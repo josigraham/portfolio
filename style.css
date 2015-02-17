@@ -23,7 +23,7 @@ body{
 
 
 header {
-	background-color: #D7D7D7; 
+	background: rgba(D7, D7, D7, .5);
 	padding-bottom: 0; 
 	padding-left: 0;
 	padding-right: 0;
