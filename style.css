@@ -6,9 +6,11 @@
 nav a.mark {
 	background-color: #000;
 	color: #fff;
-	
-	
+
 }
+
+nav a.mark:hover {
+	color: #fff;
 
 body{
 	margin: 0;
