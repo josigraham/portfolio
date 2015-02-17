@@ -1,6 +1,8 @@
 
 /* CSS STYLE PAGE */
 
+/*------------ HOME PAGE STYLE----------- */
+
 body{
 	margin: 0;
 	
@@ -280,8 +282,9 @@ footer a:hover {
 	transition: .3s all;
 	color: #000;
 }
+/*------------ HOME PAGE STYLE CLOSE----------- */
 
-/*----------------- ABOUT PAGE ----------------*/
+/*----------------- ABOUT AND CONTACT PAGE -----------------*/
 
 #profiletop {
 	    font-family: 'Lato', sans-serif;
@@ -330,6 +333,7 @@ footer a:hover {
 	   padding-top: 10px;
 	
 	}
+
+/*----------------- ABOUT AND CONTACT PAGE CLOSE -----------------*/
 	
-/*------------contact-------------*/
 
