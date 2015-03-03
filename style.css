@@ -352,5 +352,8 @@ table {
 }
 
 /*----------------- ABOUT AND CONTACT PAGE CLOSE -----------------*/
-	
+/*----------------------- PORTFOLIO PAGE -------------------------*/	
 
+article.advertise-portfolio {
+	padding: 60px;
+}
