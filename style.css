@@ -377,5 +377,8 @@ article.advertise-portfolio {
 	text-decoration: none;
 }
 	
+#port-nav p {
+	font-size: 20px;
+}
 
 /*----------------------- PORTFOLIO NAV CLOSE -------------------------*/
