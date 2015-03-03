@@ -373,7 +373,7 @@ article.non-commercial {
 	text-align: center;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
-	color: #000;
+	color: #000000;
 }
 #port-nav a {
 	padding: 13px;
@@ -382,7 +382,7 @@ article.non-commercial {
 }
 
 #port-nav a:visited {
-	color: #000;
+	color: #000000;
 	text-decoration: none;
 }
 	
