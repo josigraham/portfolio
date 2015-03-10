@@ -301,6 +301,13 @@ footer a:hover {
 	
 	text-align: center;
 }
+
+#insta-title {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	padding-bottom: 15px;
+	
+}
 /*------------ HOME PAGE STYLE CLOSE----------- */
 
 /*----------------- ABOUT AND CONTACT PAGE -----------------*/
