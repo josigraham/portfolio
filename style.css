@@ -294,6 +294,12 @@ footer a {
 footer a:hover {
 	transition: .3s all;
 	color: #000;
+	
+}
+
+#insta-widget {
+	
+	margin: 0, auto;
 }
 /*------------ HOME PAGE STYLE CLOSE----------- */
 
