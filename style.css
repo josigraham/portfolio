@@ -310,6 +310,20 @@ footer a:hover {
 	font-size: 50px;
 	
 }
+
+#youtube-widget {
+	
+	text-align: center;
+	padding: 10px;
+}
+
+#youtube-title {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	padding-bottom: 15px;
+	font-size: 50px;
+	
+}
 /*------------ HOME PAGE STYLE CLOSE----------- */
 
 /*----------------- ABOUT AND CONTACT PAGE -----------------*/
