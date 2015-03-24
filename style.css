@@ -393,6 +393,7 @@ article.non-commercial {
 #port-nav a {
 	padding: 13px;
 	font-size: 20px;
+	color: #000000;
 	
 }
 
@@ -403,6 +404,7 @@ article.non-commercial {
 	
 #port-nav p {
 	font-size: 20px;
+	color: #000000;
 }
 
 /*----------------------- PORTFOLIO NAV CLOSE -------------------------*/
